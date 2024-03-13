@@ -2,8 +2,9 @@
 
 Unity IAP Client Implementation showcasing onramps to tokens/nfts using native IAP packages
 
-## Features
-- 
+## Guide
+
+https://blog.thirdweb.com/guides/enhancing-unity-iap-with-blockchain-interactions/
 
 ## Scenes
 
